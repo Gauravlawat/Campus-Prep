@@ -1,0 +1,12 @@
+
+
+# Dependencies
+node_modules
+
+# Build folder
+dist
+build
+
+# Log files
+npm-debug.log
+.next
